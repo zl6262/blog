@@ -1,4 +1,4 @@
-#输入输出
+####输入输出
 1.重定向(freopen);         2.File *f,f=fopen("","rb"); fscanf_s(f,"%d",&n);  fclose()
 3.
       #include<stdio.h>

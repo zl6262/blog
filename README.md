@@ -5,5 +5,4 @@
 * 信号与系统（高教版）signal and system
 
 
-未来打算：
-* 
+
